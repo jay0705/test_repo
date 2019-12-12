@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2019-09-17T09:39:59.247-04:00"
-         name="GitDevOpsThing"
-         projectName="AdiDevOps"
+         lastModifiedDate="2019-12-12T09:01:16.514Z"
+         name="GitBackupThing"
+         projectName="TWXGitProject"
          published="false"
-         tags=""
+         tags="Applications:GitBackup"
          thingTemplate="GitBackupTemplate"
          valueStream="">
             <avatar></avatar>
@@ -128,22 +128,22 @@
                             </BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            adpetrescu@ptc.com
+                            jayakrishnan.m@itcinfotech.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
                             <![CDATA[
-                            Bones085
+                            jay0705
                             ]]>
                             </CommitName>
                             <FileRepository>
                             <![CDATA[
-                            GitRepository
+                            DeploymentRepository
                             ]]>
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/Bones085/Repo1
+                            https://github.com/jay0705/TWXrepo
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
@@ -157,7 +157,7 @@
                             <UseProxy>false</UseProxy>
                             <User>
                             <![CDATA[
-                            Bones085
+                            jay0705
                             ]]>
                             </User>
                         </Row>

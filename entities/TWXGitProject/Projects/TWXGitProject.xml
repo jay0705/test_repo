@@ -13,11 +13,11 @@
          description=""
          documentationContent=""
          homeMashup=""
-         lastModifiedDate="2019-09-11T10:14:31.968-04:00"
-         name="AdiDevOps"
+         lastModifiedDate="2019-12-12T08:52:39.290Z"
+         name="TWXGitProject"
          packageVersion="1.0.0"
-         projectName="AdiDevOps"
-         tags="">
+         projectName="TWXGitProject"
+         tags="Applications:GitBackup">
             <avatar></avatar>
             <DesignTimePermissions>
                 <Create></Create>
