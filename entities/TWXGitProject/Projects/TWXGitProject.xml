@@ -13,11 +13,11 @@
          description=""
          documentationContent=""
          homeMashup=""
-         lastModifiedDate="2019-12-12T08:52:39.290Z"
+         lastModifiedDate="2019-12-12T11:23:47.082Z"
          name="TWXGitProject"
          packageVersion="1.0.0"
          projectName="TWXGitProject"
-         tags="Applications:GitBackup">
+         tags="">
             <avatar></avatar>
             <DesignTimePermissions>
                 <Create></Create>
