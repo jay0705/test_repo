@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2019-12-12T11:12:14.611Z"
+         lastModifiedDate="2019-12-12T11:13:17.139Z"
          name="GitBackupThing"
          projectName="TWXGitProject"
          published="false"
@@ -143,7 +143,7 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/jay0705/TWXrepo.git
+                            https://github.com/jay0705/testrepo.git
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
